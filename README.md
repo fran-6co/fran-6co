@@ -4,6 +4,12 @@ Welcome to my GitHub profile. I'm an iOS developer based in Barcelona, Spain.
 I'm currently looking for iOS projects and here you will find some code examples I'm working on. 
 If you want to contact me or just have a virtual coffee, hit me on any platform :) .
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franochoa/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/fran8a)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/f_ochoa)
+
+
+
 ## Current stack.
 
 Here are some super duper badges that sum up a bit of my stack. Github is famous for this badges, right? 
