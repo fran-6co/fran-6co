@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm an iOS developer based in Barcelona, Spain. 
 I'm currently looking for iOS projects and here you will find some code examples I'm working on. 
-If you want to contact me or just have a virtual coffee, hit me on any platform :) .
+If you want to contact me or just have a virtual coffee, hit me on any platform :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franochoa/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/fran8a)
@@ -19,13 +19,13 @@ Here are some super duper badges that sum up a bit of my stack. Github is famous
 ![iOS](https://img.shields.io/badge/ios_15.0+-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 #### 💻 Additional stack.
-![Vapor 4](https://img.shields.io/badge/vapor_4-000000?style=for-the-badge&logo=vapor&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Vapor](https://img.shields.io/badge/vapor_4-000000?style=for-the-badge&logo=vapor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## About me.
-- 🌱 Graduated in Fullstack Swift Developer by [Apple Coding Academy](https://github.com/acacademy).
-- ⚡ Passionate about: 🥷 Efficiency everywhere! 🚘 Electrical cars, 🔌 electrical grid, 🌏 nature, 🐕 Weimaraner, and 🎾 padel.
+- 🌱 Fullstack Swift Developer by [Apple Coding Academy](https://github.com/acacademy).
+- ⚙️ Mechanical engineer.
+- ⚡ Passionate about: 🥷 energy efficiency, 🚘 electrical cars, 🔌 electrical grid, 🌏 nature, 🐕 weimaraner, and 🎾 padel.
